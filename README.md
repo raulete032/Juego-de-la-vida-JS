@@ -11,6 +11,7 @@ El juego de la vida (de John Conway) tiene cuatro reglas simples:
 · Un espacio vacío (celda color por defecto) rodeado de tres vecinos "engendra" una nueva célula, es decir, hay que cambiar ese botón al color que hayáis elegido.
 
 Rojo= Viva
+
 Azul= Muerta
 
 
@@ -27,4 +28,5 @@ The Game of Life (by John Conway) has four simple rules:
 · An empty space (default cell color) surrounded by three neighbors "spawns" a new cell, that is, you have to change that button to the color you have chosen.
 
 Red= Alive
+
 Blue = Dead
