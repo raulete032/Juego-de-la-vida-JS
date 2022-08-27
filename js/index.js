@@ -48,7 +48,6 @@ function pulsado(){
         this.style.background="#c1d7ec";
     else
         this.style.background="#F00";
-
 }
 
 
@@ -239,10 +238,6 @@ function play(){
         arrayMuertos=[];
         arrayVivos=[];
     }, 500);
-
-
-    
-
 }
 
 
